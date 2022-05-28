@@ -2,8 +2,8 @@
 
 **Full Stack Trainee Developer**
 _______
-![Linkedin](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9/)
-[![Linkedin](https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png)](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9/)
+
+[![Linkedin](https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png)](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9/ width="13%")
 _______
 
 ## **KNOWLEDGE**
