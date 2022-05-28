@@ -1,4 +1,4 @@
-### Hi there 👋
+### console.log(;Hi there 👋')
 
 **Full Stack Trainee Developer**
 _______
