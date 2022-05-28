@@ -1,6 +1,6 @@
 ### console.log('Hi there 👋')
 
-**💻𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣💻**
+**💻𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣💻**<br/>
 <img width="190px" height="110px" src="https://user-images.githubusercontent.com/63928345/170804685-c25b83f2-012a-488b-8d52-68bbd592a00b.gif" /></img> 
 _______
 
