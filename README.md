@@ -1,6 +1,6 @@
 ### console.log('Hi there 👋')
 
-**Full Stack Trainee Developer**
+**𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣**
 _______
 ### **Contact** 
 [<img alt="LINKEDIN" width="300px" height="75px" src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-officiel.png" />](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9)
