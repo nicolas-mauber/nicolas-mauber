@@ -4,7 +4,7 @@
 _______
 
 
-[<img alt="LINKEDIN" width="400px" src="https://www.ehu.eus/documents/1432750/0/linkedin_logo.png/6b411071-f960-4af4-81c9-304a36c2e257?t=1442419820000" />](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9)
+[<img alt="LINKEDIN" width="400px" src="https://1000marcas.net/wp-content/uploads/2020/01/LinkedIn-logo-tumb.png" />](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9)
 _______
 
 ## **KNOWLEDGE**
