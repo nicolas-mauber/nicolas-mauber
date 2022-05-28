@@ -10,7 +10,7 @@ _______
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="13%"></img>
 <img src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" width="13%"></img><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="13%"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="13%"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="13%"></img><img src="https://static.wikia.nocookie.net/logopedia/images/c/cd/MicrosoftSQLServer.png/revision/latest?cb=20210722190924&path-prefix=es" width="13%"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="13%"></img><img src="https://institutocpe.edu.uy/wp-content/uploads/2020/03/sql-logo.png" width="13%"></img>
 _______
 
 
