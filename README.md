@@ -3,7 +3,8 @@
 **Full Stack Trainee Developer**
 _______
 
-[![Linkedin](https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png)](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9)
+
+[<img alt="LINKEDIN" width="40px" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" />](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9)
 _______
 
 ## **KNOWLEDGE**
