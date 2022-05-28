@@ -2,7 +2,8 @@
 
 **Full Stack Trainee Developer**
 _______
-[Linkedin](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9/)
+![Linkedin](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9/)
+![alt text](https://www.web-dev-qa-db-es.com/es/git/anade-imagenes-readme.md-en-github/1071767059/#:~:text=Simplemente%20agregue%20una%20etiqueta%20%3Cimg,que%20el%20servidor%20admita%20CORS.&text=Necesito%20incluir%20algunas%20im%C3%A1genes%20en%20mi%20README%20Archivo.,-No%20s%C3%A9%20c%C3%B3mo)
 _______
 
 ## **KNOWLEDGE**
