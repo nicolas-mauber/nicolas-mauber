@@ -4,7 +4,7 @@
 _______
 
 
-[<img alt="LINKEDIN" width="400px" src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-officiel.png" />](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9)
+[<img alt="LINKEDIN" width="300px" height="100px" src="https://proinfluent.b-cdn.net/wp-content/uploads/2019/05/Logo-LinkedIn-officiel.png" />](https://www.linkedin.com/in/nicol%C3%A1s-mauber-a996121b9)
 _______
 
 ## **KNOWLEDGE**
